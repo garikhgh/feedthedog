@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079f8cd6-bc28-4731-905c-af785be228e5" name="Changes" comment="" />
+    <list default="true" id="079f8cd6-bc28-4731-905c-af785be228e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,22 +62,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.DogGame [:Main.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.DogGame [:Practice.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DogGame [assemble].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DogGame [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DogGame [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DogGame [jar].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.DogGame [:Main.main()].executor": "Debug",
+    "Gradle.DogGame [:Practice.main()].executor": "Run",
+    "Gradle.DogGame [assemble].executor": "Run",
+    "Gradle.DogGame [build].executor": "Run",
+    "Gradle.DogGame [clean].executor": "Run",
+    "Gradle.DogGame [jar].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Gradle.DogGame [jar]">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dog.game.Main" />
